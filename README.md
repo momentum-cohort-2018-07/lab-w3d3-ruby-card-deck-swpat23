@@ -8,4 +8,10 @@ This project is not laid out like previous ones. Instead, there is a `lib/` dire
 
 ## Files
 
-Starter files have been provided in the 'deck_starter_files' folder. There are no methods defined. To determine what methods to define and what they should do, run the tests given.
+Starter files have been provided in the 'deck_starter_files' folder. There are no methods defined. To determine what methods to define and what they should do, read and run the tests.
+
+## Hints
+
+You might find it useful to read up on ways to compare objects in Ruby.
+
+- [Ruby Equality and Object Comparison](https://www.skorks.com/2009/09/ruby-equality-and-object-comparison/)
