@@ -10,6 +10,8 @@ class DeckTest < Minitest::Test
     assert_equal @deck.cards_left, 52
   end
 
+
+
   # A new deck should be in the order:
   # - A, 2..10, J, Q, K of clubs
   # - A, 2..10, J, Q, K of diamonds
